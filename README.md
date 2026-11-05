@@ -62,3 +62,7 @@ Contributions are welcome. Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) 
 ## License
 
 This project is created for educational purposes.
+## Documentation
+
+Visit our [GitHub Wiki](../../wiki)
+for additional project documentation.
