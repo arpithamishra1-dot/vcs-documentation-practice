@@ -1,0 +1,12 @@
+name: Manual Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  manual:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Manual Execution
+        run: echo "Manual workflow executed successfully!"
